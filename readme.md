@@ -91,10 +91,4 @@ No build tools, no dependencies—just open and use.
 
 ---
 
-## 📣 Feedback & Contributions
-
-Feel free to fork, improve, or share feedback. This project is open for learning and personal use!
-
----
-
 **Enjoy your new todo app! Stay productive and organized.**
