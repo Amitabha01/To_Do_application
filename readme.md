@@ -90,5 +90,3 @@ No build tools, no dependencies—just open and use.
 - Designed for learning, productivity, and fun!
 
 ---
-
-**Enjoy your new todo app! Stay productive and organized.**
